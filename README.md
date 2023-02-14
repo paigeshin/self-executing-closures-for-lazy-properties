@@ -1,0 +1,1 @@
+# self-executing-closures-for-lazy-properties
